@@ -96,3 +96,4 @@ E:\2RG\EstagioProjetos\e-CommerceGames\obj\Debug\net5.0\e-CommerceGames.dll
 E:\2RG\EstagioProjetos\e-CommerceGames\obj\Debug\net5.0\ref\e-CommerceGames.dll
 E:\2RG\EstagioProjetos\e-CommerceGames\obj\Debug\net5.0\e-CommerceGames.pdb
 E:\2RG\EstagioProjetos\e-CommerceGames\obj\Debug\net5.0\e-CommerceGames.genruntimeconfig.cache
+E:\2RG\EstagioProjetos\e-CommerceGames\bin\Debug\net5.0\Dapper.Contrib.dll
